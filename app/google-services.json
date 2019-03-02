@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "906282217465",
+    "firebase_url": "https://pruebaexamen-43dae.firebaseio.com",
+    "project_id": "pruebaexamen-43dae",
+    "storage_bucket": "pruebaexamen-43dae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906282217465:android:307cb610a2323560",
+        "android_client_info": {
+          "package_name": "com.example.pruebaexamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906282217465-sns05gpg4lio036th4ttgt6hqduesudp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pruebaexamen",
+            "certificate_hash": "f7f45fe53d6d29344b7c68170d124c86dd9cb20b"
+          }
+        },
+        {
+          "client_id": "906282217465-5hsuu18dbi948pj3koc96v32617ul2je.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxBFh0-8QtPH4Q9ZGj7sUDtBGmxWKXcfo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906282217465-5hsuu18dbi948pj3koc96v32617ul2je.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
